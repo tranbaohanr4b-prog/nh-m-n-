@@ -79,7 +79,7 @@ st.sidebar.info("💡 **Hotline hỗ trợ:** 1800 588 822")
 # TRANG 1: TÍNH TOÁN & TƯ VẤN KHOẢN VAY
 # ==========================================
 if page == "📊 Tính toán & Tư vấn khoản vay":
-    st.title("📊 Công Cụ Tính Toán Khoản Vay Techcombank")
+    st.title("📊 Công Cụ Tính Toán Khoản Vay Techcombank_NHÓM NỮ")
     st.caption("Ước tính lịch trả nợ và hạn mức thanh toán hàng tháng giúp bạn chủ động kế hoạch tài chính.")
     st.divider()
 
